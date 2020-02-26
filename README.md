@@ -25,6 +25,8 @@ Feature List
 静音检测页面:
 ![avatar](apps/static/img/vad.png)
 
+噪声抑制页面（原声/降噪, 效果对比）:
+![avatar](apps/static/img/ns.png)
 
 ## WebRTC VAD
 
