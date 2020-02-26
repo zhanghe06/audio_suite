@@ -1,5 +1,11 @@
 # Audio Suite
 
+音频处理工具套件
+1. 辅助调参工具
+2. 辅助标注工具
+3. 波形直观展示
+4. 算法效果检测
+
 Demo
 ```
 virtualenv .env
@@ -8,8 +14,15 @@ pip install requirements.txt
 python run_apps.py
 ```
 
+Feature List
+
+- [X] 静音检测
+- [X] 噪声抑制
+- [X] 音频滤波
+
 [http://0.0.0.0:5000](http://0.0.0.0:5000/)
 
+静音检测页面:
 ![avatar](apps/static/img/vad.png)
 
 
